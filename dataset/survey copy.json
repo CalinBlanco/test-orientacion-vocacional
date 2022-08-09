@@ -1,0 +1,112 @@
+{
+  "im": {
+    "description": "Intereses Mecánicos",
+    "q1": "Revisar televisores.",
+    "q2": "Armar rompecabezas.",
+    "q3": "Construir edificios.",
+    "q4": "Diseñar maquinas industriales.",
+    "q5": "Imaginar figuras en varias dimensiones.",
+    "q6": "Idear aparatos de laboratorio.",
+    "q7": "Armar modelos de aviones y de barcos en miniatura."
+  },
+  "tei": {
+    "description": "Intereses en la Técnica, Electrónica e Ingeniería",
+    "q1": "Diseñar automóviles.",
+    "q2": "Controlar hornos para fundir metales.",
+    "q3": "Programar vuelos aeronáuticos.",
+    "q4": "Hacer conexiones eléctricas en un edificio.",
+    "q5": "Probar equipos de rayos X.",
+    "q6": "Pensar sobre el origen del tiempo.",
+    "q7": "Dibujar mapas de suelos."
+  },
+  "ital": {
+    "description": "Intereses para el trabajo al Aire Libre",
+    "q1": "Manejar obreros en una construcción.",
+    "q2": "Estudiar y clasificar plantas.",
+    "q3": "Dirigir un ejercito.",
+    "q4": "Enseñar educación física.",
+    "q5": "Organizar una granja.",
+    "q6": "Curar animales.",
+    "q7": "Manejar las relaciones públicas de una empresa."
+  },
+  "ic": {
+    "description": "Intereses Científicos",
+    "q1": "Mirar a través de microscopios y/o telescopios.",
+    "q2": "Frecuentar las bibliotecas.",
+    "q3": "Observar el comportamiento de la gente.",
+    "q4": "Imaginar relaciones entre las cosas.",
+    "q5": "Hacer combinaciones de sustancias.",
+    "q6": "Estudiar los vientos y las mareas.",
+    "q7": "Controlar la calidad de un producto."
+  },
+  "ccc": {
+    "description": "Intereses en Cómputo, Cuentas y Cálculo",
+    "q1": "Llevar la contabilidad de una empresa.",
+    "q2": "Investigar créditos.",
+    "q3": "Analizar datos numéricos e interpretarlos.",
+    "q4": "Manejar una registradora en un banco.",
+    "q5": "Operar máquinas calculadoras y/o computadoras.",
+    "q6": "Calcular las bases para la construcción de un edificio.",
+    "q7": "Realizar estudios de mercado."
+  },
+  "nrv": {
+    "description": "Intereses en Negocios, Relaciones y Ventas",
+    "q1": "Guiar a un grupo de turistas.",
+    "q2": "Ser gerente de un banco.",
+    "q3": "Vender seguros de vida.",
+    "q4": "Visitar médicos para ofrecerles productos farmacéuticos.",
+    "q5": "Calcular las utilidades de una empresa.",
+    "q6": "Administrar un supermercado.",
+    "q7": "Analizar las posibilidades de vender un producto."
+  },
+  "dse": {
+    "description": "Intereses en Dirección, Supervisión y Ejecutivos",
+    "q1": "Ser oficial de la marina.",
+    "q2": "Dirigir los estudios de mercado de una casa publicitaria.",
+    "q3": "Elaborar programas de desarrollo de personal.",
+    "q4": "Manejar las relaciones laborales de una empresa.",
+    "q5": "Administrar un edificio de apartamentos.",
+    "q6": "Organizar las actividades académicas de un plantel educativo.",
+    "q7": "Organizar una compañía de seguros."
+  },
+  "eo": {
+    "description": "Intereses en Empleos de Oficina",
+    "q1": "Manejar una librería.",
+    "q2": "Corregir pruebas en un  periódico.",
+    "q3": "Ayudar a un gerente en la dirección de una empresa.",
+    "q4": "Controlar el flujo de mercancías en una bodega.",
+    "q5": "Recopilar datos para un directorio telefónico.",
+    "q6": "Despachar y recibir mercadería en una fábrica.",
+    "q7": "Ser secretario en una oficina de abogados."
+  },
+  "ss": {
+    "description": "Intereses en Servicios Sociales",
+    "q1": "Enseñar a leer y escribir.",
+    "q2": "Participar en actividades con jóvenes.",
+    "q3": "Organizar grupos de personas.",
+    "q4": "Ser líder de una comunidad.",
+    "q5": "Rehabilitar delincuentes.",
+    "q6": "Trabajar como locutor de radio.",
+    "q7": "Curar los dientes a alguien."
+  },
+  "il": {
+    "description": "Intereses Literarios",
+    "q1": "Dictar clases de literatura.",
+    "q2": "Escribir poesías.",
+    "q3": "Dictar conferencias de historia.",
+    "q4": "Asesorar en la redacción de una revista.",
+    "q5": "Entrevistar a personajes de suma importancia.",
+    "q6": "Elaborar demandas en procesos jurídicos.",
+    "q7": "Escribir una novela inspirada en hechos reales."
+  },
+  "amr": {
+    "description": "Intereses Artísticos, Musicales y Recreación. ( Arte y/o  Música)",
+    "q1": "Hacer fotografías.",
+    "q2": "Decorar ambientes.",
+    "q3": "Coordinar una producción cinematográfica.",
+    "q4": "Bailar ante público.",
+    "q5": "Dibujar retratos.",
+    "q6": "Cantar música popular.",
+    "q7": "Diseñar la escenografía de una obra de teatro."
+  }
+}

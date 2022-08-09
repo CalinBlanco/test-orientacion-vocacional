@@ -1,0 +1,171 @@
+{
+  "im": {
+    "description": "Intereses Mecánicos",
+    "content": "Si has obtenido un alto puntaje en estos intereses demuestras una fuerte atracción por trabajos relacionados con la Mecánica y reparación de equipos",
+    "careers": [
+      "Ingeniería Mecánica",
+      "Ingeniería Sanitaria",
+      "Ingeniería Industrial",
+      "Ingeniería de Materiales",
+      "Ingeniería Metalúrgica",
+      "Electromecánica",
+      "Física"
+    ]
+  },
+  "tei": {
+    "description": "Intereses en la Técnica, Electrónica e Ingeniería",
+    "content": "Altos puntajes indican un fuerte interés en la ciencia y tecnología aplicada.  La actividad típica en este campo implica la aplicación práctica de la teoría en áreas especializadas como la investigación, diseño y desarrollo",
+    "careers": [
+      "Ingeniería Aeronáutica",
+      "Ingeniería Civil",
+      "Ingeniería de Minas",
+      "Ingeniería de Sistemas",
+      "Ingeniería Eléctrica y Electrónica",
+      "Ingeniería Industrial",
+      "Ingeniería en Mecánica",
+      "Ingeniería y Diseño Industrial"
+    ]
+  },
+  "ital": {
+    "description": "Intereses para el trabajo al Aire Libre",
+    "content": "Te gusta realizar trabajos que tengan que ver con la naturaleza, su desarrollo y preservación. Quienes se dedican a este campo están relacionados con la agricultura, vida silvestre, labranza y en general trabajos técnicos y científicos de campo para mejorar y proteger las condiciones de todas las formas de vida sobre nuestro planeta",
+    "careers": [
+      "Oficial de las Fuerzas Armadas o Policiales",
+      "Ingeniería Agrícola",
+      "Ingeniería Agroindustrial",
+      "Agronomía",
+      "Economía",
+      "Economía Agraria y Agrícola",
+      "Ingeniería Forestal",
+      "Ingeniería Pesquera",
+      "Pesquería",
+      "Zootecnia",
+      "Ingeniería Civil (de carreteras, ferrocarriles, puentes, represas, etc)",
+      "Medicina Veterinaria",
+      "Arquitectura (especialmente paisajista)"
+    ]
+  },
+  "ic": {
+    "description": "Intereses Científicos",
+    "content": "Tienes un alto interés hacia la investigación  y trabajos de laboratorio así como actividad en el estudio de fenómenos atmosféricos, astronómicos y geográficos, en los aspectos teóricos de la Física, las Matemáticas y en los procesos de sistematización de datos.  Para un desempeño adecuado en este campo se requieren buenas aptitudes en: Matemáticas, Física, Química y Biología",
+    "careers": [
+      "Biología",
+      "Electromecánica",
+      "Física",
+      "Ingeniería de Sistemas y Computación",
+      "Ingeniería Electrónica",
+      "Odontología",
+      "Ingeniería Química",
+      "Matemáticas",
+      "Enfermería",
+      "Medicina",
+      "Microbiología",
+      "Oceanografía",
+      "Farmacia y Bioquímica",
+      "Sistematización de Datos",
+      "Ingeniería de Alimentos",
+      "otras que permitan un desarrollo científico de estudio y de investigación"
+    ]
+  },
+  "ccc": {
+    "description": "Intereses en Cómputo, Cuentas y Cálculo",
+    "content": "Altos puntajes indican una preferencia por trabajar con números y máquinas calculadoras",
+    "careers": [
+      "Ingeniería de Sistemas",
+      "Contabilidad",
+      "Estadística",
+      "Matemáticas",
+      "Informática",
+      "Economía",
+      "Mercadotecnia"
+    ]
+  },
+  "nrv": {
+    "description": "Intereses en Negocios, Relaciones y Ventas",
+    "content": "Altos puntajes en esta área indican una inclinación hacia trabajos en los cuales se hace uso de la persuasión y el contacto humano, tales como ventas, el mercadeo y la política para las cuales se requiere un alto grado de aptitud verbal.  Los empleos más frecuentes son los desarrollados por los ejecutivos de negocios, vendedores, corredores de inversiones, directores de campañas políticas, hoteleros, asesores industriales",
+    "careers": [
+      "Administración de Empresas",
+      "Administración Hotelera y Turismo",
+      "Ciencias de la Comunicación",
+      "Relaciones Industriales",
+      "Derecho y Ciencias Políticas"
+    ]
+  },
+  "dse": {
+    "description": "Intereses en Dirección, Supervisión y Ejecutivos",
+    "content": "Altos puntajes en esta área indican una predilección por la organización, planeación coordinación y dirección de funciones de una empresa, departamento o dependencia.  La actividad en este grupo implica supervisión de personal, planeación y ejecución de nuevos programas o proyectos",
+    "careers": [
+      "Oficiales de las Fuerzas Armadas y Policiales",
+      "Administración de Empresas y sus ramas especializadas",
+      "Economía",
+      "Administración Hotelera y de Turismo",
+      "Ingeniería Administrativa",
+      "Ingeniería Industrial"
+    ]
+  },
+  "eo": {
+    "description": "Intereses en Empleos de Oficina",
+    "content": "Un alto puntaje indica preferencia por los trabajos en empresas, en recolección, clasificación y ordenamiento de papeles y documentos, correspondencia, registros, relación de datos, operación de datos y de máquinas de oficina.  Este campo cubre una vasta área de niveles de experiencia y conocimientos, desde mandos medios hasta auxiliares de oficinas",
+    "careers": [
+      "Bibliotecarios",
+      "Secretarios",
+      "Cajeros de Bancos",
+      "Mecanógrafos",
+      "Telefonistas",
+      "Operadores de Máquinas de oficina",
+      "Recepcionistas"
+    ]
+  },
+  "ss": {
+    "description": "Intereses en Servicios Sociales",
+    "content": "Altos puntajes en esta área indican una fuerte inclinación a la enseñanza, a la terapéutica y en general a las ocupaciones de ayuda a la comunidad.  Demuestras una predisposición para las relaciones interpersonales y siguiendo esta vocación, estarías envuelto en la solución de problemas ocupaciones educacionales, correccionales, de salud y sociales",
+    "careers": [
+      "Medicina en todas sus especialidades",
+      "Enfermería",
+      "Psicología",
+      "Sociología",
+      "Terapia del Lenguaje",
+      "Trabajo Social",
+      "Educación Inicial",
+      "Primaria y Secundaria",
+      "Ciencias de la Educación",
+      "Fonoaudiología",
+      "Odontología"
+    ]
+  },
+  "il": {
+    "description": "Intereses Literarios",
+    "content": "Buenos resultados aquí muestran un interés en los trabajos relacionados con la cultura en general y la literatura.  La actividad de este campo está primordialmente enfocada a la preservación, desarrollo y transmisión de la cultura general.  Este grupo contiene ocupaciones comúnmente clasificadas como las humanidades, con énfasis en la comunicación escrita.  Es importante tener un alto nivel en aptitud verbal, razonamiento abstracto y en las áreas del conocimiento que desees desarrollar",
+    "careers": [
+      "Derecho y Ciencias Políticas",
+      "Ciencias de la Comunicación",
+      "Antropología",
+      "Arqueología",
+      "Bellas Artes",
+      "Educación y Ciencias Religiosas",
+      "Filosofía y Letras",
+      "Historia",
+      "Teología"
+    ]
+  },
+  "amr": {
+    "description": "Intereses Artísticos, Musicales y Recreación. ( Arte y/o  Música)",
+    "content": "Un alto puntaje en esta área indica que posees un fuerte interés por los campos creativos del arte, la música o el teatro y que tienes originalidad e imaginación.  En el trabajo en estos campos se utiliza la palabra, la música, el movimiento corporal, materiales de pintura o escultura, etc",
+    "careers": [
+      "Arquitectura",
+      "Dibujo Arquitectónico",
+      "Diseño Publicitario",
+      "Música",
+      "Pedagogía Musical",
+      "Publicidad y Ciencias de la Comunicación",
+      "Cine",
+      "Radio y Televisión"
+    ]
+  },
+  "note": {
+    "content": "Además de este reporte, es importante que busques mayor información de tu interés vocacional seleccionado, de igual forma de las diferentes profesiones que aquí se mencionan.  Así, en el momento de escoger tu carrera tendrás más datos posibles y podrás realizar una mejor elección profesional"
+  },
+  "reference": {
+    "author": "Psicólogo Luis Alfonso Vera Cruzado"
+  }
+}

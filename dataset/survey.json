@@ -1,0 +1,42 @@
+{
+  "im": {
+    "description": "Intereses Mecánicos",
+    "q1": "Revisar televisores.",
+    "q2": "Armar rompecabezas.",
+    "q3": "Construir edificios.",
+    "q4": "Diseñar maquinas industriales.",
+    "q5": "Imaginar figuras en varias dimensiones.",
+    "q6": "Idear aparatos de laboratorio.",
+    "q7": "Armar modelos de aviones y de barcos en miniatura."
+  },
+  "tei": {
+    "description": "Intereses en la Técnica, Electrónica e Ingeniería",
+    "q1": "Diseñar automóviles.",
+    "q2": "Controlar hornos para fundir metales.",
+    "q3": "Programar vuelos aeronáuticos.",
+    "q4": "Hacer conexiones eléctricas en un edificio.",
+    "q5": "Probar equipos de rayos X.",
+    "q6": "Pensar sobre el origen del tiempo.",
+    "q7": "Dibujar mapas de suelos."
+  },
+  "ital": {
+    "description": "Intereses para el trabajo al Aire Libre",
+    "q1": "Manejar obreros en una construcción.",
+    "q2": "Estudiar y clasificar plantas.",
+    "q3": "Dirigir un ejercito.",
+    "q4": "Enseñar educación física.",
+    "q5": "Organizar una granja.",
+    "q6": "Curar animales.",
+    "q7": "Manejar las relaciones públicas de una empresa."
+  },
+  "ic": {
+    "description": "Intereses Científicos",
+    "q1": "Mirar a través de microscopios y/o telescopios.",
+    "q2": "Frecuentar las bibliotecas.",
+    "q3": "Observar el comportamiento de la gente.",
+    "q4": "Imaginar relaciones entre las cosas.",
+    "q5": "Hacer combinaciones de sustancias.",
+    "q6": "Estudiar los vientos y las mareas.",
+    "q7": "Controlar la calidad de un producto."
+  }
+}
